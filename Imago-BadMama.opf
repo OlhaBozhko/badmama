@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">603ca73c-0c72-4a91-b3f3-7acfe463a839</dc:identifier>
+        <dc:title>Imago</dc:title>
+        <dc:creator opf:file-as="Mama, Bad" opf:role="aut">Bad Mama</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.48.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-15T00:00:00+00:00</dc:date>
+        <dc:description>Эта книга о девушке, которая искала любовь. Сначала искала любовь в других, потом — в себе. Рушила, создавала, уходила, отдавала себя, падала и вставала. Она о взрослении, жертве, абьюзе, сексе, рождении, заботе и бесконечной надежде. Местами слишком смелая, честная, противоречащая... Она не дает конкретной инструкции: как найти и полюбить себя... Но она точно расскажет, что необходимо преодолеть и принять на этом пути.</dc:description>
+        <dc:publisher>Саммит-книга</dc:publisher>
+        <dc:language>rus</dc:language>
+        <meta content="{&quot;Bad Mama&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2021-03-11T20:31:37.688075+00:00" name="calibre:timestamp"/>
+        <meta content="Imago" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Imago - Bad Mama.jpg" title="Обложка" type="cover"/>
+    </guide>
+</package>
